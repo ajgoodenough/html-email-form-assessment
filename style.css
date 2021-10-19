@@ -1,0 +1,30 @@
+body {
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  color: white;
+  background-color: black;
+}
+
+legend {
+  font-size: 24px;
+}
+
+fieldset {
+  background-color: navy;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+label {
+  font-size: 18px;
+}
+button {
+  margin: 5px 0 0 5px;
+  background-color: gold;
+}
+
+input {
+  margin: 5px;
+}
